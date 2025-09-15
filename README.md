@@ -1,4 +1,4 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi there! 
 ============================================================================================================================
 🔧 I'm a passionate programmer born in 2004, hailing from Vietnam. I specialize in software engineering and have a keen interest in machine learning, game development.
 
@@ -45,28 +45,10 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <div align="left">
 <img src="https://img.shields.io/static/v1?message=huynhkhang7452&log…color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.facebook.com/profile.php?id=100087106733569" target="_blank">
+  <a href="https://www.facebook.com/imchooyluvu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=face…color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/@HuynhKhang7452" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtu…color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
 
 ###
 
-## Some of my favorite projects:
-
-**[`Tempusia`](https://store.steampowered.com/app/2054730/Tempusia/)**: a tricky puzzle game base on time rewinding mechanic.
-
-**[`URP shader code`](https://github.com/VKev/Unity-URP-Shaders-Code)**: a project contain a lot of shader for URP unity.
-
-**[`Real-Time Palm Print Identification System`](https://github.com/VKev/Real-Time-Palm-Print-Identification-System)**: a real-time palm print identification system tailored for uncooperative environment.
-
-**[`Discord bot Rin-chan`](https://github.com/VKev/Discord-bot-Rin-chan)**: a discord bot that can sing, ask ChatGPT, generate AI image using Dall.
-
-**[`TicketResell web`](https://github.com/VKev/TicketResell_Web)**: a website for buying resell ticket.
-
-**[`GoodMeal web`](https://github.com/VKev/GoodMeal-AI-Food-Recommendation-Web-App)**: a food recommendation website powered by AI, recommend food nearby base on natural language.
-
-**[`.NET Microservices Template`](https://github.com/VKev/Microservices-Dot-Net-Template)**: a microservices boilerplate ready to deploy on aws ecs cluster with github CI/CD and terraform.
