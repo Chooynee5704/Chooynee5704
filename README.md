@@ -44,12 +44,7 @@ Hi there!
 
 ###
 
-<div align="left">
-<img src="https://img.shields.io/static/v1?message=huynhkhang7452&log…color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.facebook.com/imchooyluvu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=face…color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
+
 
 ###
 
