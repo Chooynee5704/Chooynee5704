@@ -5,8 +5,9 @@ Hi there!
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vkev&hi…e_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-right: 15px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?userna…ard_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" width="300" alt="languages graph" style="margin-left: 15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chooynee5704&theme=omni&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph" style="margin-right: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chooynee5704&theme=omni&show_icons=true&hide_border=false&layout=compact" height="150" width="300" alt="languages graph" style="margin-left: 15px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chooynee5704&theme=omni&hide_border=false&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo" height="150" width="300" alt="languages graph" style="margin-left: 15px;"/>
 </div>
 
 ###
