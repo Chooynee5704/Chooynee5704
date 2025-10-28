@@ -1,6 +1,6 @@
 Hi there! 
 ============================================================================================================================
-🔧 I'm a passionate programmer born in 2004, hailing from Vietnam. I specialize in software engineering and have a keen interest in machine learning, game development.
+🔧 I'm a passionate programmer born in 2004, hailing from Vietnam. I specialize in software engineering and have a keen interest in machine learning, game development, love vkev.
 
 ###
 
@@ -46,4 +46,5 @@ Hi there!
 
 
 ###
+
 
