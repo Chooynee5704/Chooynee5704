@@ -36,8 +36,54 @@ Developed SAP ABAP reports/enhancements and worked with SAP data models, interna
 ---
 
 ## Skill Stack
-**Core:** Node.js, .NET, REST APIs, MongoDB, AWS, React, Unity  
-**Also comfortable with:** Terraform, S3/EC2, RAG basics (n8n), CI/CD concepts, SQL, OOP, system design basics
+
+### Core
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="34" alt=".NET" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="C#" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="34" alt="Unity" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
+</div>
+
+### Also comfortable with
+<div align="left">
+  <!-- Terraform -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="34" alt="Terraform" />
+  <img width="10" />
+
+  <!-- AWS (simple-icons, since devicon may not have a clean aws logo) -->
+  <img src="https://cdn.simpleicons.org/amazonaws/7F5AF0" height="34" alt="AWS" />
+  <img width="10" />
+
+  <!-- Docker / CI-CD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="34" alt="GitHub Actions" />
+  <img width="10" />
+
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
+  <img width="10" />
+
+  <!-- OOP / Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" />
+  <img width="10" />
+
+  <!-- RAG / n8n (simple-icons) -->
+  <img src="https://cdn.simpleicons.org/n8n/FF4D8D" height="34" alt="n8n" />
+</div>
+
 
 ---
 
